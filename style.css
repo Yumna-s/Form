@@ -1,0 +1,93 @@
+aside {
+  border-top: 10px solid #ffb81efe;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+h1 {
+  font-size: 35px;
+}
+h4 {
+  font-size: 17px;
+}
+body {
+  font-size: smaller;
+  line-height: 15px;
+  background-color: bisque;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+div {
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+.google {
+  text-align: center;
+  font-size: 27px;
+  color: #494242e3;
+}
+
+.container {
+  width: 500px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-bottom:20px ; */
+}
+symbol {
+  color: red;
+}
+footer {
+  font-size: 14px;
+  color: #494242e3;
+}
+
+.last {
+  color: #494242e3;
+}
+.paragraph {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+.bnon {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 80%;
+}
+input {
+  margin-top: 13px;
+  margin-bottom: 13px;
+  font-size: 12px;
+  outline: none;
+  border-radius: 0;
+}
+.corner {
+  padding-left: 20px;
+  padding-top: 8px;
+  margin-bottom: 20px;
+}
+.btn {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  background-color: bisque;
+}
+.btn1 {
+  padding: 10px 20px;
+  color: bisque;
+  background-color: rgba(189, 108, 14, 0.92);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.btn2 {
+  padding: 10px 20px;
+  background-color: bisque;
+  color: rgba(189, 108, 14, 0.92);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
